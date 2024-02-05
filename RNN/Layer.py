@@ -1,4 +1,4 @@
-from Node import Node
+from RNN.Node import Node
 
 
 class Layer:

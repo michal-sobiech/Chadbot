@@ -1,5 +1,8 @@
+from RNN.RNN import RNN
+
+
 def main():
-    pass
+    rnn = RNN([])
 
 if __name__ == '__main__':
     main()

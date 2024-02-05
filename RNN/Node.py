@@ -1,3 +1,6 @@
+from __future__ import annotations
+
+
 class Node:
     prev_node: Node = None
     next_node: Node = None
